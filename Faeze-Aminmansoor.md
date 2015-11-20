@@ -3,7 +3,7 @@
 ###Contact Information:
 Name: FAEZE AMINMANSOOR
 
-Email: aminmansoorf@gmail.com
+Email:	aminmansoorf@gmail.com
 
 	f_aminmansoor@aut.ac.ir
 
