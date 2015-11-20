@@ -4,8 +4,7 @@
 Name:                      FAEZE AMINMANSOOR
 
 Email:                     aminmansoorf@gmail.com
-
-                           f_aminmansoor@aut.ac.ir
+	f_aminmansoor@aut.ac.ir
 
 
 ###Educational Background:
@@ -22,7 +21,7 @@ Email:                     aminmansoorf@gmail.com
 ###Master Thesis:
 *	Simulation of Ion-Acoustic Solitons Generation from a Localized Perturbation
 
-Supervisor: Dr. Hossein Abbasi
+	Supervisor: Dr. Hossein Abbasi
 
 
 
